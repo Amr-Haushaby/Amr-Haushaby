@@ -8,8 +8,7 @@
 
 ### 👋 Hello! I'm **Amr Haushaby** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-🌐 My Website: 
-<a href="https://courageous-mooncake-ce1b54.netlify.app/">
+🌐 <a href="https://courageous-mooncake-ce1b54.netlify.app/">
   <img src="https://img.shields.io/badge/Website-Visit-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
