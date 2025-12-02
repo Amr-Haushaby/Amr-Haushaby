@@ -68,40 +68,44 @@ I’m also following the **Abu-Hadhoud Roadmap**. I enjoy building projects, imp
   <table> 
     <tr> 
       <td> 
-        <img src="https://github-readme-stats.vercel.app/api?username=AhmedYaser-Mt&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&v=1" alt="AhmedYaser-Mt's GitHub stats" /> 
+        <img src="https://github-readme-stats.vercel.app/api?username=Amr-Haushaby&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&v=1" alt="Amr-Haushaby's GitHub stats" /> 
       </td> 
       <td> 
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedYaser-Mt&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" /> 
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr-Haushaby&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" /> 
       </td> 
     </tr> 
   </table> 
   <br> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYaser-Mt&layout=compact&theme=tokyonight&hide_border=false&v=1" alt="Top Languages" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Haushaby&layout=compact&theme=tokyonight&hide_border=false&v=1" alt="Top Languages" /> 
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=AhmedYaser-Mt&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
-
+![Trophy](https://github-profile-trophy.vercel.app/?username=Amr-Haushaby&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/AhmedYaser-Mt?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
+  <img src="https://img.shields.io/github/followers/Amr-Haushaby?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
 </p>
 
 ---
 
 ### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmed-yaser-mt">
+  <a href="https://courageous-mooncake-ce1b54.netlify.app/">
+    <img src="https://img.shields.io/badge/Website-Visit-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
+  <!-- Replace these with your real links (or delete them) -->
+  <a href="YOUR_LINKEDIN_URL_HERE">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ahmed.yaser.mt@gmail.com">
+  <a href="mailto:YOUR_PUBLIC_EMAIL_HERE">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/201014842264">
+  <a href="https://wa.me/YOUR_NUMBER_HERE">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
