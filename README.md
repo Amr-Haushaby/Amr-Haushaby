@@ -91,9 +91,6 @@ I’m also following the **Abu-Hadhoud Roadmap**. I enjoy building projects, imp
   <a href="https://www.linkedin.com/in/amr-haushaby">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:amrhaushaby2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </div>
 
 ---
