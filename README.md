@@ -9,10 +9,11 @@
 ### 👋 Hello! I'm **Amr Haushaby** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 I’m a student passionate about programming 🚀 and currently studying at **42 Wolfsburg**.  
-Right now, I’m learning **C++**, and strengthening my **problem-solving** skills using **Visual Studio Code** 💻.
+At 42, I work mainly with **C++** and also practice **C** while strengthening my **problem-solving** skills using **Visual Studio Code** 💻.
 
 I’m also following the **Abu-Hadhoud Roadmap**. I enjoy building projects, improving my skills, and sharing my progress with the community.
 
+---
 
 <div align="center">
   <a href="https://courageous-mooncake-ce1b54.netlify.app/">
