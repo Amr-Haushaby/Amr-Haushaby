@@ -28,7 +28,7 @@ I’m also following the **Abu-Hadhoud Roadmap**. I enjoy building projects, imp
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 
 - [🎮 Stone-Paper-Scissor Game](https://github.com/Amr-Haushaby/Stone-Paper-Scissor-Game)
-- [🧮 Notendurchschnitt & Status (German)](https://github.com/Amr-Haushaby/Projekt-Notendurchschnitt-und-Status-)
+- [🧮 Notendurchschnitt & Status (German Version)](https://github.com/Amr-Haushaby/Projekt-Notendurchschnitt-und-Status-)
 - [🐷 Piggy Bank Calculator](https://github.com/Amr-Haushaby/Projekt-Piggy-Bank-Calculator-)
 - [➗ Simple Calculator](https://github.com/Amr-Haushaby/Projekt-Simple-Calculator-)
 
