@@ -7,15 +7,19 @@
 <hr>
 
 ### 👋 Hello! I'm **Amr Haushaby** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-A student passionate about programming 🚀. Currently learning **C++**, **OOP** and problem-solving using **Visual Studio Code** to build my skills 💻.  
-Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improving my skills, and sharing my progress with the community.
+
+I’m a student passionate about programming 🚀 and currently studying at **42 Wolfsburg**.  
+Right now, I’m learning **C++**, **Object-Oriented Programming (OOP)**, and strengthening my **problem-solving** skills using **Visual Studio Code** 💻.
+
+I’m also following the **Abu-Hadhoud Roadmap**. I enjoy building projects, improving my skills, and sharing my progress with the community.
 
 ---
 
 ### 🛠️ Skills & Tools <img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW4w/giphy.gif" width="30">
+
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
 ---
