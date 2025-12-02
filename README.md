@@ -43,7 +43,7 @@ I’m also following the **Abu-Hadhoud Roadmap**. I enjoy building projects, imp
 
 ### 🎯 Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
 - **Abu-Hadhoud Roadmap**
-- Mastering **C++** & **OOP** 💡  
+- Mastering **C++** 💡  
 - Algorithms and Problem Solving  
 - Practicing with small projects 🛠️  
 - Improving my professional profile on **GitHub** and **LinkedIn**
