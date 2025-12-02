@@ -30,6 +30,7 @@ I’m also following the **Abu-Hadhoud Roadmap**. I enjoy building projects, imp
 - **Stone-Paper-Scissor Game (C++)** — Classic console game vs. computer with random choices and win/lose logic.  
   👉 https://github.com/Amr-Haushaby/Stone-Paper-Scissor-Game
 
+
 ## 🧮 Calculators
 - **Simple Calculator (C++)** — Menu-based calculator for +, -, *, / with basic input handling.  
   👉 https://github.com/Amr-Haushaby/Projekt-Simple-Calculator-
