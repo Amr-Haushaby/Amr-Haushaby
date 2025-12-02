@@ -11,7 +11,8 @@
 I’m a student passionate about programming 🚀 and currently studying at **42 Wolfsburg**.  
 At 42, I work mainly with **C++** and also practice **C** while strengthening my **problem-solving** skills using **Visual Studio Code** 💻.
 
-I’m also following the **Abu-Hadhoud Roadmap**. I enjoy building projects, improving my skills, and sharing my progress with the community.
+I’m also following the **[Abu-Hadhoud Roadmap](https://programmingadvices.com/p/roadmap)**. I enjoy building projects, improving my skills, and sharing my progress with the community.
+
 
 ---
 
