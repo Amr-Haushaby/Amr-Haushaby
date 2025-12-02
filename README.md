@@ -9,7 +9,7 @@
 ### 👋 Hello! I'm **Amr Haushaby** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 I’m a student passionate about programming 🚀 and currently studying at **42 Wolfsburg**.  
-At 42, I work mainly with **C** and also practice **C++** while strengthening my **problem-solving** skills using **Visual Studio Code** 💻.
+At 42, I work mainly with **C** while strengthening my **problem-solving** skills and building projects using **C++** 💻.
 
 I’m also following the **[Abu-Hadhoud Roadmap](https://programmingadvices.com/p/roadmap)**. I enjoy building projects, improving my skills, and sharing my progress with the community.
 
