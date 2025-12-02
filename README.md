@@ -27,14 +27,10 @@ I’m also following the **Abu-Hadhoud Roadmap**. I enjoy building projects, imp
 #### 💻 Featured Projects
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 
-## 🎮 Games & Fun
-[![Stone-Paper-Scissor-Game](https://github-readme-stats.vercel.app/api/pin/?username=Amr-Haushaby&repo=Stone-Paper-Scissor-Game)](https://github.com/Amr-Haushaby/Stone-Paper-Scissor-Game)
-
-## 🧮 Calculators
-[![Projekt-Notendurchschnitt-und-Status-](https://github-readme-stats.vercel.app/api/pin/?username=Amr-Haushaby&repo=Projekt-Notendurchschnitt-und-Status-)](https://github.com/Amr-Haushaby/Projekt-Notendurchschnitt-und-Status-)
-[![Projekt-Piggy-Bank-Calculator-](https://github-readme-stats.vercel.app/api/pin/?username=Amr-Haushaby&repo=Projekt-Piggy-Bank-Calculator-)](https://github-readme-stats.vercel.app/api/pin/?username=Amr-Haushaby&repo=Projekt-Piggy-Bank-Calculator-)
-
-[![Projekt-Simple-Calculator-](https://github-readme-stats.vercel.app/api/pin/?username=Amr-Haushaby&repo=Projekt-Simple-Calculator-)](https://github.com/Amr-Haushaby/Projekt-Simple-Calculator-)
+- [🎮 Stone-Paper-Scissor Game](https://github.com/Amr-Haushaby/Stone-Paper-Scissor-Game)
+- [🧮 Notendurchschnitt & Status](https://github.com/Amr-Haushaby/Projekt-Notendurchschnitt-und-Status-)
+- [🐷 Piggy Bank Calculator](https://github.com/Amr-Haushaby/Projekt-Piggy-Bank-Calculator-)
+- [➗ Simple Calculator](https://github.com/Amr-Haushaby/Projekt-Simple-Calculator-)
 
 
 ---
