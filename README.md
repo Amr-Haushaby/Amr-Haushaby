@@ -71,7 +71,6 @@ I’m also following the **Abu-Hadhoud Roadmap**. I enjoy building projects, imp
     </tr> 
   </table> 
   <br> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Haushaby&layout=compact&theme=tokyonight&hide_border=false&v=1" alt="Top Languages" /> 
 </div>
 
 ---
