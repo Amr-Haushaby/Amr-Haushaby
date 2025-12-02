@@ -100,7 +100,7 @@ I’m also following the **Abu-Hadhoud Roadmap**. I enjoy building projects, imp
 
   <!-- Replace these with your real links (or delete them) -->
   <a href="YOUR_LINKEDIN_URL_HERE">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="www.linkedin.com/in/amr-haushaby" />
   </a>
   <a href="mailto:YOUR_PUBLIC_EMAIL_HERE">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
