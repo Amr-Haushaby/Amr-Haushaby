@@ -36,9 +36,8 @@ I’m also following the **Abu-Hadhoud Roadmap**. I enjoy building projects, imp
 ---
 
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
-- 10 - OOP as it should be (concepts) (Programming Advices)
-- Completed 9+ courses in Abu-Hadhoud Roadmap (Programming Advices)
-- Solved 400+ programming problems
+- Completed 5 courses in Abu-Hadhoud Roadmap (Programming Advices)
+- Solved 250+ programming problems
 
 ---
 
