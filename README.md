@@ -75,11 +75,6 @@ I’m also following the **Abu-Hadhoud Roadmap**. I enjoy building projects, imp
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=Amr-Haushaby&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
-
----
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/Amr-Haushaby?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
 </p>
