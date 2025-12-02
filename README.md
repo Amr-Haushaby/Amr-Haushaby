@@ -8,6 +8,8 @@
 
 ### 👋 Hello! I'm **Amr Haushaby** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
+🌐 My Website: [courageous-mooncake-ce1b54.netlify.app](https://courageous-mooncake-ce1b54.netlify.app/)
+
 I’m a student passionate about programming 🚀 and currently studying at **42 Wolfsburg**.  
 Right now, I’m learning **C++**, **Object-Oriented Programming (OOP)**, and strengthening my **problem-solving** skills using **Visual Studio Code** 💻.
 
