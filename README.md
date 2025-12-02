@@ -6,8 +6,8 @@
 
 <hr>
 
-### 👋 Hello! I'm **Ahmed Yaser Metwalli** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-A student passionate about programming 🚀. Currently learning **C++**, **OOP** and problem-solving using **Visual Studio** to build my skills 💻.  
+### 👋 Hello! I'm **Amr Haushaby** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+A student passionate about programming 🚀. Currently learning **C++**, **OOP** and problem-solving using **Visual Studio Code** to build my skills 💻.  
 Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improving my skills, and sharing my progress with the community.
 
 ---
