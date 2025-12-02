@@ -24,12 +24,12 @@ I’m also following the **Abu-Hadhoud Roadmap**. I enjoy building projects, imp
 
 ---
 
-### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
+#### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 ## 🎮 Games & Fun
 - **Stone-Paper-Scissor Game (C++)** — Classic console game vs. computer with random choices and win/lose logic.  
   👉 https://github.com/Amr-Haushaby/Stone-Paper-Scissor-Game
 
-### 🧮 Calculators
+## 🧮 Calculators
 - **Simple Calculator (C++)** — Menu-based calculator for +, -, *, / with basic input handling.  
   👉 https://github.com/Amr-Haushaby/Projekt-Simple-Calculator-
 
