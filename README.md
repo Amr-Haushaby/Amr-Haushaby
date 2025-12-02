@@ -18,7 +18,6 @@ I’m also following the **Abu-Hadhoud Roadmap**. I enjoy building projects, imp
 ### 🛠️ Skills & Tools <img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW4w/giphy.gif" width="30">
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
