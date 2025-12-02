@@ -99,14 +99,11 @@ I’m also following the **Abu-Hadhoud Roadmap**. I enjoy building projects, imp
   </a>
 
   <!-- Replace these with your real links (or delete them) -->
-  <a href="YOUR_LINKEDIN_URL_HERE">
-    <img src="www.linkedin.com/in/amr-haushaby" />
+  <a href="https://www.linkedin.com/in/amr-haushaby">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_PUBLIC_EMAIL_HERE">
+  <a href="mailto:amrhaushaby2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/YOUR_NUMBER_HERE">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
 
@@ -114,10 +111,10 @@ I’m also following the **Abu-Hadhoud Roadmap**. I enjoy building projects, imp
 
 ```cpp
 // Focused on mastering the stack
-class AhmedYaserMt {
+class AmrHaushaby {
 public:
-  string university = "Benha University";
+  string school = "42 Wolfsburg";
   string track = "Full Stack Developer";
   string passion = "Problem Solving & Building Projects";
-  void sayHi() { cout << "Thanks for visiting my profile! 🚀"; }
+  void Message() { cout << "Thanks for visiting my profile! 🚀"; }
 };
