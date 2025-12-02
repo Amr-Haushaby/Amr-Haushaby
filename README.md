@@ -25,11 +25,20 @@ I’m also following the **Abu-Hadhoud Roadmap**. I enjoy building projects, imp
 ---
 
 ### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
-- [Project 1 ( Stone - Paper - Scissor )](https://github.com/AhmedYaser-Mt/Project-1-Stone---Paper---Scissor-)
-- [Project 2 ( Math Game )](https://github.com/AhmedYaser-Mt/Project-2-Math-Game-)
-- [Project 3 ( Banking System )](https://github.com/AhmedYaser-Mt/Project-3-Bank-1-)
-- [Project 4 ( ATM System )](https://github.com/AhmedYaser-Mt/Project-4-ATM-System-)
-- [Project 12 ( Banking System - OOP )](https://github.com/AhmedYaser-Mt/Project-12-Bank-System_OOP_)
+## 🎮 Games & Fun
+- **Stone-Paper-Scissor Game (C++)** — Classic console game vs. computer with random choices and win/lose logic.  
+  👉 https://github.com/Amr-Haushaby/Stone-Paper-Scissor-Game
+
+### 🧮 Calculators
+- **Simple Calculator (C++)** — Menu-based calculator for +, -, *, / with basic input handling.  
+  👉 https://github.com/Amr-Haushaby/Projekt-Simple-Calculator-
+
+- **Piggy Bank Calculator (C++)** — Calculates saved money using user inputs and clean console interaction.  
+  👉 https://github.com/Amr-Haushaby/Projekt-Piggy-Bank-Calculator-
+
+- **Notendurchschnitt & Status (C++)** — Computes grade average and prints the final student status.  
+  👉 https://github.com/Amr-Haushaby/Projekt-Notendurchschnitt-und-Status-
+
 
 ---
 
