@@ -66,11 +66,6 @@ I’m also following the **Abu-Hadhoud Roadmap**. I enjoy building projects, imp
 
 <div align="center"> 
   <table> 
-    <tr> 
-      <td> 
-        <img src="https://github-readme-stats.vercel.app/api?username=Amr-Haushaby&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&v=1" alt="Amr-Haushaby's GitHub stats" /> 
-      </td> 
-      <td> 
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr-Haushaby&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" /> 
       </td> 
     </tr> 
