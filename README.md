@@ -69,7 +69,7 @@ I’m also following the **[Abu-Hadhoud Roadmap](https://programmingadvices.com/
 
 <div align="center"> 
   <table> 
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr-Haushaby&theme=tokyonight&hide_border=false" />
+       ![GitHub Streak](https://streak-stats.demolab.com?user=Amr-Haushaby&theme=tokyonight&hide_border=false)
       </td> 
     </tr> 
   </table> 
