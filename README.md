@@ -67,17 +67,6 @@ I’m also following the **[Abu-Hadhoud Roadmap](https://programmingadvices.com/
 
 ---
 
-<div align="center"> 
-  <table> 
-       ![GitHub Streak](https://streak-stats.demolab.com?user=Amr-Haushaby&theme=tokyonight&hide_border=false)
-      </td> 
-    </tr> 
-  </table> 
-  <br> 
-</div>
-
----
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/Amr-Haushaby?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
 </p>
