@@ -38,13 +38,37 @@ I’m also following the **[Abu-Hadhoud Roadmap](https://programmingadvices.com/
 #### 💻 Featured Projects
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 
-- [Project 1 (🎮 Stone-Paper-Scissor Game)](https://github.com/Amr-Haushaby/Stone-Paper-Scissor-Game)
-- [Project 2 ( Math Game )](https://github.com/Amr-Haushaby/Math-Game)
-- [Project 3 ( Banking System )]
-- [Project 4 ( ATM System )]
-- [🧮 Grade Average & Status (German Version)](https://github.com/Amr-Haushaby/Projekt-Notendurchschnitt-und-Status-)
-- [🐷 Piggy Bank Calculator](https://github.com/Amr-Haushaby/Projekt-Piggy-Bank-Calculator-)
-- [➗ Simple Calculator](https://github.com/Amr-Haushaby/Projekt-Simple-Calculator-)
+### 🚀 Main Console Projects
+These projects represent my **core learning progress in C++**, focusing on clean code, problem solving, and program structure.
+
+- **🎮 Stone–Paper–Scissor Game**  
+  A C++ console game implementing game logic, random choice generation, and round-based results.  
+  👉 https://github.com/Amr-Haushaby/Stone-Paper-Scissor-Game
+
+- **🧮 Math Game**  
+  An interactive math quiz game with multiple operations, difficulty levels, and score tracking.  
+  👉 https://github.com/Amr-Haushaby/Math-Game
+
+- **🏦 Banking System**  
+  A console-based banking client management system with file handling and transaction logic.  
+  👉 https://github.com/Amr-Haushaby/Banking-System
+
+---
+
+### 🧩 Mini Console Projects
+Small focused programs built to practice **specific programming concepts** and problem-solving techniques.
+
+- **🧮 Grade Average & Status (German Version)**  
+  Calculates student averages and determines pass/fail status.  
+  👉 https://github.com/Amr-Haushaby/Projekt-Notendurchschnitt-und-Status-
+
+- **🐷 Piggy Bank Calculator**  
+  A simple program to calculate savings based on entered amounts.  
+  👉 https://github.com/Amr-Haushaby/Projekt-Piggy-Bank-Calculator-
+
+- **➗ Simple Calculator**  
+  A basic arithmetic calculator built using C++ console input/output.  
+  👉 https://github.com/Amr-Haushaby/Projekt-Simple-Calculator-
 
 
 ---
