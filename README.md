@@ -54,7 +54,7 @@ I’m also following the **[Abu-Hadhoud Roadmap](https://programmingadvices.com/
 ---
 
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
-- Completed 6 courses in Abu-Hadhoud Roadmap (Programming Advices)
+- Completed 7 courses in Abu-Hadhoud Roadmap (Programming Advices)
 - Solved 250+ programming problems
 
 ---
