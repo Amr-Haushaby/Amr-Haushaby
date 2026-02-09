@@ -39,7 +39,7 @@ I’m also following the **[Abu-Hadhoud Roadmap](https://programmingadvices.com/
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 
 - [Project 1 (🎮 Stone-Paper-Scissor Game)](https://github.com/Amr-Haushaby/Stone-Paper-Scissor-Game)
-- [Project 2 ( Math Game )] 
+- [Project 2 ( Math Game )](https://github.com/Amr-Haushaby/Math-Game)
 - [Project 3 ( Banking System )]
 - [Project 4 ( ATM System )]
 - [🧮 Grade Average & Status (German Version)](https://github.com/Amr-Haushaby/Projekt-Notendurchschnitt-und-Status-)
