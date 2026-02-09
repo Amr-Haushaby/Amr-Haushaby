@@ -38,7 +38,7 @@ I’m also following the **[Abu-Hadhoud Roadmap](https://programmingadvices.com/
 #### 💻 Featured Projects
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 
-- [Project 1 (🎮 Stone-Paper-Scissor Game])(https://github.com/Amr-Haushaby/Stone-Paper-Scissor-Game)
+- [Project 1 (🎮 Stone-Paper-Scissor Game)](https://github.com/Amr-Haushaby/Stone-Paper-Scissor-Game)
 - [🧮 Grade Average & Status (German Version)](https://github.com/Amr-Haushaby/Projekt-Notendurchschnitt-und-Status-)
 - [🐷 Piggy Bank Calculator](https://github.com/Amr-Haushaby/Projekt-Piggy-Bank-Calculator-)
 - [➗ Simple Calculator](https://github.com/Amr-Haushaby/Projekt-Simple-Calculator-)
