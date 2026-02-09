@@ -38,7 +38,7 @@ I’m also following the **[Abu-Hadhoud Roadmap](https://programmingadvices.com/
 #### 💻 Featured Projects
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 
-### 🚀 Main Console Projects
+### 🚀 Main Projects
 - [Project 1 (🎮 Stone-Paper-Scissor Game)](https://github.com/Amr-Haushaby/Stone-Paper-Scissor-Game)
 - [Project 2 ( Math Game )](https://github.com/Amr-Haushaby/Math-Game)
 - [Project 3 ( Banking System )](https://github.com/Amr-Haushaby/Banking-System)
@@ -46,19 +46,9 @@ I’m also following the **[Abu-Hadhoud Roadmap](https://programmingadvices.com/
 ---
 
 ### 🧩 Mini Console Projects
-Small focused programs built to practice **specific programming concepts** and problem-solving techniques.
-
-- **🧮 Grade Average & Status (German Version)**  
-  Calculates student averages and determines pass/fail status.  
-  👉 https://github.com/Amr-Haushaby/Projekt-Notendurchschnitt-und-Status-
-
-- **🐷 Piggy Bank Calculator**  
-  A simple program to calculate savings based on entered amounts.  
-  👉 https://github.com/Amr-Haushaby/Projekt-Piggy-Bank-Calculator-
-
-- **➗ Simple Calculator**  
-  A basic arithmetic calculator built using C++ console input/output.  
-  👉 https://github.com/Amr-Haushaby/Projekt-Simple-Calculator-
+- [🧮 Grade Average & Status (German Version)](https://github.com/Amr-Haushaby/Projekt-Notendurchschnitt-und-Status-)
+- [🐷 Piggy Bank Calculator](https://github.com/Amr-Haushaby/Projekt-Piggy-Bank-Calculator-)
+- [➗ Simple Calculator](https://github.com/Amr-Haushaby/Projekt-Simple-Calculator-)
 
 
 ---
